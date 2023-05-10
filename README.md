@@ -5,7 +5,7 @@ Internship Questions
 
 This program implements the Fibonacci sequence using Dynamic Programming in C. It uses a custom Node structure to represent different arithmetic operations and conditions, and evaluates their values recursively using the calc function.
 
-Installation
+#Installation
 
 To run this program, you need to have a C compiler installed on your system, such as gcc. If you don't have one, you can download it from the official website: https://gcc.gnu.org/
 
